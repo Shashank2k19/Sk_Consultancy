@@ -1,0 +1,102 @@
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-white-1 static-top main-head_nav">
+        <div class="container-fluid">
+            <a class="navbar-brand mb-header" href="index.html">
+<span><img src="images/sk (2).png" alt="Sk consultancy logo" width="315px">
+</span>
+</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+<div id="nav-icon">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+</button>
+            <div class="collapse navbar-collapse row-pad" id="navbarResponsive">
+                <ul class="navbar-nav manu nav ml-auto top">
+                    <li class="nav-item active li" id="home">
+                        <a class="nav-link homei align" href="index.html">Home
+<span class="sr-only">(current)</span>
+</a>
+                    </li>
+                    <li class="nav-item li-1">
+                        </i><a class="nav-link align homei" href="StrategyConsulting.html">Strategy consulting</a>
+                    </li>
+                    <li class="nav-item li-2 dropdown submenu" id="solution">
+                        <span class="rotate toogle">
+<i class="fa fa-chevron-right" aria-hidden="true"></i>
+</span>
+                        <a class="nav-link align homei" href="Solution.html">Solutions</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="solutionSalesforce.html">Salesforce</a></li>
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="devops.html">Mainframe Modernization</a></li>
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="SolutionCybersecurity.html">Cybersecurity</a></li>
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="automation.html">Automation</a></li>
+
+                        </ul>
+                    </li>
+                    <li class="nav-item li-3 dropdown submenu" id="managedService">
+                        <span class="rotate toogle">
+<i class="fa fa-chevron-right" aria-hidden="true"></i>
+</span>
+                        <a class="nav-link align homei align-top-b" href="managedService.html">Managed Services</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="managedServiceHelpDesk.html">Managed Service HelpDesk</a></li>
+                            <li class="drop-down-border-for-toggle"><a class="a-color-for-toggle" href="managedServiceSOC.html">Managed Service SOC</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item li-4">
+                        <a class="nav-link align homei" href="about.html">About Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<script type="text/javascript">
+    // $(function () {
+    //     $('.nav a').filter(function () {
+    //         return this.href == location.href
+    //     }).parent().addClass('active').siblings().removeClass('active')
+    // });
+
+    $(".rotate").click(function() {
+        $(this).toggleClass("down");
+    })
+
+    $(document).ready(function() {
+
+        if (location.href.indexOf("solutionSalesforce") != -1 || location.href.indexOf("SolutionCybersecurity") != -1 || location.href.indexOf("automation") != -1 || location.href.indexOf("devops") != -1) {
+            $('#solution').addClass('active');
+            $('#home').removeClass('active');
+        } else if (location.href.indexOf("managedServiceHelpDesk") != -1 || location.href.indexOf("managedServiceSOC") != -1) {
+            $('#managedService').addClass('active');
+            $('#home').removeClass('active');
+        } else {
+            $('.nav a').filter(function() {
+                return this.href == location.href
+            }).parent().addClass('active').siblings().removeClass('active')
+        }
+        //  alert(location.href);
+
+
+        // Show hide popover
+        $(".dropdown").click(function() {
+            $(this).find(".dropdown-menu").slideToggle("fast");
+        });
+    });
+    $(document).on("click", function(event) {
+        var $trigger = $(".dropdown");
+        if ($trigger !== event.target && !$trigger.has(event.target).length) {
+            $(".dropdown-menu").slideUp("fast");
+        }
+    });
+
+    $(document).ready(function() {
+        $('#nav-icon').click(function() {
+            $(this).toggleClass('open');
+        });
+    });
+</script>
