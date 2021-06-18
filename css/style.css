@@ -2979,6 +2979,9 @@ li.active a {
 .home-sec-3 {
     background-color: #e0e0e0
 }
+.home-sec-4 {
+    background-color: #d9dddc
+}
 
 .home_puzel_img {
     width: 430px;
@@ -3024,6 +3027,16 @@ li.active a {
     font-size: 28px;
     font-family: montserrat, sans-serif;
     word-spacing: 14px
+}
+
+.home_sec_four_hedding_set {
+    color: #3f4245;
+    font-size: 28px;
+    font-family: montserrat, sans-serif;
+    word-spacing: 14px;
+    padding-top: 50px;
+        margin-bottom: 30px;
+        text-align:center;
 }
 
 .home_sec_three_border_set {
