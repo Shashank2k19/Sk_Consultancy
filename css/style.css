@@ -719,101 +719,12 @@ header .navbar {
     font-family: montserrat, sans-serif
 }
 
-.card-title {
-    margin-bottom: .75rem;
-    font-size: 16px;
-    color: #000000bf
-}
-
 .body-1 {
     height: 121px
 }
 
 .body-2 {
     height: 122px
-}
-
-.card-text {
-    font-size: 12px;
-    margin-top: 17px !important;
-    margin-left: 61px;
-    color: #636060;
-    width: 220px;
-    word-spacing: 2px;
-    font-weight: 500;
-    font-family: montserrat, sans-serif
-}
-
-.card-text-1 {
-    width: 280px;
-    word-spacing: 1px;
-    padding-right: 14px;
-    margin-top: 17px !important;
-    font-size: 12px;
-    margin-left: 20px;
-    color: #636060;
-    font-weight: 500;
-    font-family: montserrat, sans-serif
-}
-
-.card-text-2 {
-    font-size: 12px;
-    margin-top: 17px !important;
-    width: 339px !important;
-    margin-left: -10px;
-    width: 11px;
-    color: #636060;
-    word-spacing: 2px;
-    font-weight: 500;
-    font-family: montserrat, sans-serif
-}
-
-.card {
-    border-radius: 0 !important;
-    padding-top: 14px
-}
-
-.card-img-1 {
-    position: absolute;
-    right: 92%;
-    background-color: #fff;
-    padding: 11px;
-    border-radius: 68px !important;
-    top: 7%;
-    border: 1px solid #d3d3d3
-}
-
-.card-img-2 {
-    position: absolute;
-    left: 92%;
-    padding: 10px;
-    border-radius: 34px !important;
-    top: 7%;
-    background-color: #fff;
-    border: 1px solid #d3d3d3;
-    border-radius: 70px
-}
-
-.card-img-3 {
-    position: absolute;
-    right: 92%;
-    padding: 10px;
-    border-radius: 34px !important;
-    top: 7%;
-    background-color: #fff;
-    border: 1px solid #d3d3d3;
-    border-radius: 70px
-}
-
-.card-img-4 {
-    position: absolute;
-    left: 92%;
-    padding: 10px;
-    background-color: #fff;
-    border-radius: 34px !important;
-    top: 7%;
-    border: 1px solid #d3d3d3;
-    border-radius: 70px
 }
 
 .six-sec {
@@ -1217,16 +1128,6 @@ button:hover {
     float: right
 }
 
-.card_padding_auto {
-    padding-left: 6px !important;
-    padding-right: 6px !important
-}
-
-.card_padding_auto1 {
-    padding-left: 6px !important;
-    padding-right: 6px !important
-}
-
 .robot_png_auto {
     position: absolute;
     top: 0;
@@ -1306,10 +1207,6 @@ button:hover {
     height: 100%
 }
 
-.card_it_div {
-    text-align: center
-}
-
 .dot-matrix-solve-page {
     position: absolute;
     right: -18px;
@@ -1370,39 +1267,6 @@ button:hover {
     padding-top: 10px
 }
 
-.solve-card {
-    border: none !important;
-    border-top-right-radius: 67px !important;
-    height: 334px;
-    padding-top: 50px;
-    box-shadow: 0 0 13px 5px #d3d3d333;
-    padding-bottom: 50px;
-    display: flex !important;
-    justify-content: center
-}
-
-.solve-card-1 {
-    border: none !important;
-    height: 334px;
-    padding-top: 50px;
-    padding-bottom: 50px
-}
-
-.solve-card-2 {
-    border: none !important;
-    height: 334px;
-    box-shadow: 0 0 13px 5px #d3d3d333;
-    display: flex !important;
-    justify-content: center
-}
-
-.solve-card-3 {
-    border: none !important;
-    height: 334px;
-    box-shadow: 0 0 13px 5px #d3d3d333;
-    display: flex;
-    justify-content: center
-}
 
 .baadal {
     display: flex;
@@ -1674,42 +1538,8 @@ ul {
     list-style: none
 }
 
-.first_card {
-    border: none !important;
-    border-radius: unset;
-    border-radius: 0 28px 0 0 !important;
-    font-size: 20px;
-    padding: 3px;
-    margin-top: 60px;
-    margin-bottom: 20px;
-    width: 85%;
-    margin-left: 15px
-}
-
 .forth-sec-s {
     background-color: #f4f4f4
-}
-
-.all_card {
-    border: none !important;
-    border-radius: unset;
-    font-size: 20px;
-    padding: 3px;
-    margin-bottom: 20px;
-    border-radius: unset !important;
-    width: 85%;
-    margin-left: 15px
-}
-
-.last_card {
-    border: none !important;
-    border-radius: unset;
-    font-size: 20px;
-    padding: 3px;
-    margin-bottom: 60px;
-    border-radius: unset !important;
-    width: 85%;
-    margin-left: 15px
 }
 
 .li_set {
@@ -2422,37 +2252,6 @@ ul {
     border-left: 2px solid #a9a9a9
 }
 
-.managed-card-2 {
-    border: none !important;
-    height: 143px;
-    border-top-right-radius: 20px !important;
-    border-bottom-right-radius: 20px !important;
-    max-width: 60%
-}
-
-.lil-card-col {
-    display: grid;
-    justify-content: center;
-    align-items: flex-start;
-    height: 40vh
-}
-
-.desk-process {
-    padding-bottom: 0
-}
-
-.robot-human {
-    min-width: 102% !important
-}
-
-.features_cards {
-    height: 100%;
-    position: absolute !important;
-    left: 0;
-    z-index: 5;
-    top: 30px
-}
-
 .features_cards-1 {
     background-color: #f3c951;
     margin-right: -60px;
@@ -2493,35 +2292,6 @@ ul {
 
 .features-img {
     padding: 6px 9px 8px 5px
-}
-
-.brand-text-2 {
-    font-size: 18px;
-    font-family: montserrat, sans-serif;
-    margin-top: 25px;
-    color: #364048;
-    font-weight: 500
-}
-
-.brand-text-1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: montserrat, sans-serif;
-    font-weight: 500;
-    color: #364048;
-    font-size: 27px
-}
-
-.brand-text-1_soc {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: montserrat, sans-serif;
-    font-weight: 500;
-    color: #364048;
-    font-size: 27px;
-    margin-bottom: 30px
 }
 
 .body {
@@ -2609,61 +2379,6 @@ li.active a {
     position: relative;
     background-position: center
 }
-
-.cyber-card-2 {
-    border: none !important;
-    height: 200px;
-    border-top-right-radius: 20px !important;
-    border-bottom-right-radius: 20px !important;
-    max-width: 65%
-}
-
-.cyber-lil-card-col {
-    display: flex;
-    align-items: center;
-    justify-content: center
-}
-
-.cyber-s-align-card {
-    position: absolute;
-    bottom: -10%;
-    z-index: 5;
-    width: 110%;
-    right: -4%
-}
-
-.cyber-solution-img-1 {
-    align-items: center;
-    display: flex;
-    justify-content: flex-end;
-    height: 26vh
-}
-
-.solution-cyber-1 {
-    font-size: 12px;
-    text-align: justify;
-    word-spacing: 0;
-    width: 75%;
-    line-height: 26px;
-    color: #7d7d7d;
-    font-family: montserrat, sans-serif;
-    font-weight: 500
-}
-
-.scyber-1 {
-    color: #fff;
-    font-size: 1.55rem;
-    font-weight: 400;
-    letter-spacing: 1px;
-    word-spacing: 2px;
-    font-family: montserrat, sans-serif;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    height: 90vh;
-    margin-left: 18rem !important
-}
-
 .salesforce-top_hadding-set {
     color: #fff;
     font-size: 1.55rem;
@@ -2676,11 +2391,6 @@ li.active a {
 .salesforce_dot_img {
     width: 18%;
     margin-left: 23%
-}
-
-.cyber-sec-sec-2 {
-    background-color: #f4f4f4;
-    overflow: hidden
 }
 
 .cyber-for-border {
@@ -2870,21 +2580,6 @@ li.active a {
     background-color: #404e57;
     height: 28px
 }
-
-#para-cyber {
-    font-size: 10px;
-    color: #a9a9a9c7
-}
-
-#cyber-sec-third {
-    background-color: #f4f4f4;
-    height: 444px;
-    padding-top: 90px;
-    background-image: url('../images/Solutions_Cybersecurity/wavy with filter.png');
-    background-size: cover;
-    background-repeat: no-repeat
-}
-
 .last-po-absolute {
     position: absolute;
     top: -135px;
@@ -2981,6 +2676,10 @@ li.active a {
 }
 .home-sec-4 {
     background-color: #d9dddc
+}
+
+.card{
+ background-color: #d9dddc
 }
 
 .home_puzel_img {
@@ -3364,33 +3063,12 @@ li.active a {
 .Ecosystem_img_div {
     text-align: center
 }
-
-.sec_three_card_set_sales_for {
-    border-radius: unset !important;
-    text-align: center;
-    align-items: center;
-    padding: 15px;
-    width: 100%;
-    font-size: 13px;
-    font-family: muli, sans-serif;
-    color: #5d5f63;
-    box-shadow: 3px 3px 26px -12px rgba(0, 0, 0, .75);
-    margin-top: 14px
-}
-
-.sec_three_card_log_sales_for {
-    width: 23%;
-    margin-top: 20px;
-    margin-bottom: 5px
-}
-
 .process_hedding_set {
     color: #00a1e1;
     margin-top: 22px;
     margin-bottom: 20px;
     font-family: montserrat, sans-serif
 }
-
 .integrations_hedding_set {
     color: #c7a340;
     margin-top: 15px;
@@ -6640,36 +6318,6 @@ li.active a {
         background-color: #f4f4f4
     }
 }
-
-.OUR_EXPERTISE {
-    position: relative;
-    padding: 50px 0
-}
-
-.OUR_EXPERTISE::before {
-    content: "";
-    position: absolute;
-    height: 290px;
-    background-image: url(../images/strategy/Background--Strategy-consulting-_-Our-expertise.jpg);
-    top: 0;
-    width: 100%;
-    z-index: -1;
-    background-size: cover;
-    background-position: top;
-    background-repeat: no-repeat
-}
-
-.OUR_EXPERTISE::after {
-    content: "";
-    position: absolute;
-    height: auto;
-    background-color: #f4f4f4;
-    top: 290px;
-    width: 100%;
-    bottom: 0;
-    z-index: -1
-}
-
 .AGILE_COACHING {
     background-color: #f4f4f4;
     padding: 65px 0;
