@@ -2607,7 +2607,7 @@ li.active a {
     height: 100%;
   }
   .card-title {
-    width: 80%;
+    width: 100%;
   }
   .card-body {
     text-align: -webkit-center;
@@ -3902,7 +3902,7 @@ li.active a {
     font-weight: 500;
   }
   .card-title {
-    width: 80%;
+    width: 100%;
   }
   .card-body {
     text-align: -webkit-center;
