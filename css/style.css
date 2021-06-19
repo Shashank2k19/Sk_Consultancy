@@ -747,11 +747,6 @@ ul {
   width: 868px;
 }
 
-.loked_png_cyber-secure {
-  width: 145px;
-  padding: 10%;
-}
-
 .center-align-card-naru {
   position: absolute;
   bottom: -85px;
@@ -862,30 +857,6 @@ ul {
   background-size: cover;
 }
 
-.sc-new-img-1-change {
-  background-image: url(../images/Solutions_Cybersecurity/hacker-code.jpg);
-  height: 401px !important;
-  background-repeat: no-repeat;
-  width: 100%;
-  background-position: center;
-  display: flex;
-  background-size: 100%;
-  position: relative;
-  background-size: cover;
-}
-
-.cyber-dotted-img-jaycyber-dotted-img-jay-help {
-  position: absolute;
-  top: 0;
-}
-
-.help-desk-dot {
-  position: absolute;
-  width: 210px;
-  top: 0;
-  left: 10px;
-}
-
 .center-align-card-1 {
   position: absolute;
   bottom: -4%;
@@ -947,12 +918,6 @@ ul {
   justify-content: center;
   align-items: flex-start;
   height: 40vh;
-}
-
-.cyber-img-1 {
-  align-items: center;
-  display: flex;
-  height: 100%;
 }
 
 .managed-ser {
@@ -1021,13 +986,6 @@ ul {
   padding-top: 1rem;
 }
 
-.cyber-dotted-img-jay {
-  position: absolute;
-  left: 23%;
-  bottom: 63%;
-  padding: 0 16px 12px 13px;
-}
-
 .managed-card-my {
   border: none !important;
   height: 100%;
@@ -1060,21 +1018,6 @@ ul {
   z-index: 5;
   width: 110%;
   right: -4%;
-}
-
-.manage-1 {
-  color: #fff;
-  font-size: 28px;
-  font-weight: 400;
-  font-family: montserrat, sans-serif;
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-.manage-1-div {
-  padding: 0 !important;
-  padding-top: 210px !important;
 }
 
 .for-border {
@@ -1181,190 +1124,6 @@ li.active a {
   margin-left: 18%;
 }
 
-.salesforce_dot_img {
-  width: 18%;
-  margin-left: 23%;
-}
-
-.cyber-for-border {
-  border-left: 1px solid #a9a9a9;
-}
-
-.cyber-part1 {
-  font-size: 16px;
-  width: 658px;
-  padding-left: 30px;
-  line-height: 26px;
-  color: #2f3031d1;
-  font-family: muli;
-  font-weight: 500;
-}
-
-.cyber-s-part2 {
-  font-size: 16px;
-  width: 639px;
-  padding-left: 30px;
-  line-height: 26px;
-  color: #2f3031d1;
-  font-family: muli;
-  font-weight: 500;
-}
-
-.cyber-security-my {
-  padding-top: 160px !important;
-  padding-bottom: 70px;
-}
-
-.cyber-security-my-to-naru {
-  padding-bottom: 40px;
-}
-
-.cyber-saction-2 {
-  background-color: #eee;
-  position: relative;
-  height: 100%;
-  padding-bottom: 75px;
-}
-
-.our-cyber-securities {
-  font-size: 27px;
-  font-weight: 500;
-  color: #364048;
-  word-spacing: 8px;
-  font-family: montserrat, sans-serif;
-  margin-top: 60px;
-}
-
-.cyber-security-card {
-  border: none !important;
-  border-top-left-radius: 40px !important;
-  border-bottom-left-radius: 40px !important;
-  width: 100%;
-  padding-top: 65px;
-  box-shadow: 0 0 13px 5px #d3d3d333;
-  right: 0;
-  padding-bottom: 55px;
-  margin-right: 0;
-}
-
-.assessment-cyber {
-  font-weight: 400;
-  word-spacing: 6px;
-  letter-spacing: 1px;
-  box-shadow: 0 1px 2px 0 #495968;
-  color: #d8c277;
-  padding: 12px 24px;
-  background-color: #495968;
-  width: 18%;
-  font-size: 1.1rem;
-  display: inline;
-}
-
-.cyber-serr-para {
-  width: 410px;
-  color: #424141de;
-  font-size: 13px;
-  font-family: montserrat, sans-serif;
-  font-weight: 500;
-}
-
-.cyber-serr-div {
-  padding-top: 3rem;
-  padding-left: 102px;
-}
-
-.cyber-serr-para_div {
-  border-bottom: 2px solid #d3d3d373;
-  width: 450px;
-  margin-left: 111px;
-  padding-top: 17px;
-  margin-bottom: 17px;
-}
-
-.cyber-jay {
-  font-size: 15px;
-  color: #364048;
-  margin-left: 105px;
-  font-family: montserrat, sans-serif;
-}
-
-.last-li-cyber {
-  list-style: none;
-  font-size: 13px;
-  margin-left: 88px;
-  font-family: muli;
-  font-weight: 500;
-}
-
-.second_last_list {
-  list-style: none;
-  font-size: 13px;
-  font-family: muli;
-  font-weight: 500;
-}
-
-.cyber-last-span {
-  color: #716f6f;
-}
-
-.assessment-01-img {
-  position: absolute;
-  top: 0%;
-  right: 0;
-}
-
-.assesment_img {
-  width: 450px;
-}
-
-.security-training-01 {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-
-.cyber-serr-para-cyber {
-  width: 35%;
-  padding: 0 0 25px;
-  color: #424141c2;
-  font-weight: 400;
-  border-bottom: 2px solid #d3d3d373;
-  font-size: 13px;
-  line-height: 20px;
-  font-family: montserrat, sans-serif;
-  font-weight: 500;
-}
-
-.traning_img {
-  width: 500px;
-}
-
-.cyber-last-card-1 {
-  padding-top: 5rem !important;
-}
-
-.managed-ser-cyber {
-  color: #364048;
-  letter-spacing: 0;
-  word-spacing: 1px;
-  font-weight: 400;
-  font-size: 1.8rem;
-  font-family: montserrat, sans-serif;
-}
-
-.last-po-absolute {
-  position: absolute;
-  top: -135px;
-  left: 0;
-}
-
-.cyber-dotted-img {
-  position: absolute;
-  left: 23%;
-  bottom: 65%;
-  padding: 0 16px 12px 13px;
-}
-
 .one_sec_set {
   margin-top: 45px;
 }
@@ -1452,6 +1211,9 @@ li.active a {
 
 .card {
   background-color: #d9dddc;
+}
+.cardservice {
+  background-image: linear-gradient(147deg, #fdfbfb 0%, #ebedee 74%);
 }
 
 .card:hover {
@@ -1591,17 +1353,6 @@ li.active a {
   .hacker_img {
     width: 160px;
   }
-  .cyber-security-my {
-    padding-top: 120px !important;
-    padding-bottom: 35px;
-  }
-  .cyber-part1,
-  .cyber-s-part2 {
-    width: 100%;
-    text-align: justify;
-    padding-left: 0;
-    font-size: 15px;
-  }
   .about-text-cyber {
     font-size: 15px;
   }
@@ -1630,11 +1381,6 @@ li.active a {
   .home_sec_three_hadding_div {
     display: flex;
     justify-content: center;
-  }
-  .cyber-security-card {
-    border-top-left-radius: 0 !important;
-    border-bottom-left-radius: 0 !important;
-    width: 97%;
   }
   .web {
     margin-top: 0;
@@ -1847,9 +1593,6 @@ li.active a {
   }
 }
 
-.Ecosystem_img_div {
-  text-align: center;
-}
 .process_hedding_set {
   color: #00a1e1;
   margin-top: 22px;
@@ -1970,14 +1713,6 @@ li.active a {
 .section_four_sales_for {
   background-color: #f4f4f4;
   padding: 50px 0;
-}
-
-.Ecosystem_img_div {
-  text-align: center;
-}
-
-.Ecosystem_img {
-  width: 50%;
 }
 
 .data_mgnt {
@@ -2739,9 +2474,6 @@ li.active a {
   .soc_d_card {
     height: 110px;
   }
-  .manage-1 {
-    margin-left: 25px;
-  }
   .center-align-card-naru_soc {
     bottom: -35px;
   }
@@ -2776,11 +2508,6 @@ li.active a {
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-  .Ecosystem_img_div {
-    text-align: center;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
   .last_h4_set_sf {
     font-size: 15px;
   }
@@ -2812,9 +2539,6 @@ li.active a {
     margin-top: 23px;
     margin-bottom: 15px;
     font-size: 25px;
-  }
-  .manage-1-div {
-    padding-top: 192px !important;
   }
   .loked_png_cs_text {
     padding-left: 0 !important;
@@ -3982,24 +3706,6 @@ li.active a {
   .traning_img {
     width: 210px;
   }
-  .cyber-serr-para {
-    width: 100%;
-  }
-  .cyber-serr-para_div {
-    width: 100%;
-    margin-left: 0;
-  }
-  .cyber-serr-para-cyber {
-    width: 100%;
-  }
-  .cyber-serr-div {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  .cyber-jay {
-    margin-left: 20px;
-    margin-bottom: 20px;
-  }
   .last-li-cyber {
     margin-left: 20px;
   }
@@ -4034,9 +3740,6 @@ li.active a {
   }
   .soc_d_card {
     height: 110px;
-  }
-  .manage-1 {
-    margin-left: 25px;
   }
   .center-align-card-naru_soc {
     bottom: -35px;
@@ -4079,11 +3782,6 @@ li.active a {
     padding-top: 50px;
   }
   .card_auto_col_p {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-  .Ecosystem_img_div {
-    text-align: center;
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
