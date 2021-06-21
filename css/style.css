@@ -196,11 +196,11 @@ header .navbar {
 }
 
 .contant {
-  color: #f4fbff;
+  color: #e6c23a;
   font-size: 22px;
   font-family: montserrat, sans-serif;
   line-height: 31px;
-  padding-top: 290px;
+  padding-top: 300px;
   padding-left: 280px;
 }
 
@@ -2662,7 +2662,7 @@ li.active a {
     padding: 0%;
   }
   .contant {
-    padding-top: 180px;
+    padding-top: 190px;
     padding-left: 10px;
   }
   .solution-class-media {
